@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@cdktf/provider-aws": "^1.0.80",
-    "cdktf": "^0.4.0",
+    "cdktf": "^0.19.1",
     "constructs": "^3.3.75",
     "cron-time-generator": "^1.2.0",
     "esbuild": "^0.12.6"
